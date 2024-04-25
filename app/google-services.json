@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172449787402",
+    "firebase_url": "https://keepchatting-59414.firebaseio.com",
+    "project_id": "keepchatting-59414",
+    "storage_bucket": "keepchatting-59414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172449787402:android:ca831faa5badf46cd6f9f3",
+        "android_client_info": {
+          "package_name": "com.example.user.keepchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172449787402-ibos0uj62fge1jhj2ifrsthakib9vb0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.keepchatting",
+            "certificate_hash": "937262637b4ca4ca438dc408a96735b9ef81c8bc"
+          }
+        },
+        {
+          "client_id": "172449787402-lhst7gi7tq75gvp3trj9rf6k7r9v16p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsgTgl0HrUWSVSPKXNzsw-UU0q4sWveU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172449787402-lhst7gi7tq75gvp3trj9rf6k7r9v16p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

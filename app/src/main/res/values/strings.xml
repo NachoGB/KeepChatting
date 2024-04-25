@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeepChatting</string>
+    <string name="bLogIn">Iniciar sesión</string>
+    <string name="bSignUp">Crear usuario</string>
+    <string name="bSignOut">Cerrar sesión</string>
+    <string name="bOlvidarPassword">Has olvidado la contraseña?</string>
+    <string name="nuevoUsuario">No tienes usuario?</string>
+</resources>

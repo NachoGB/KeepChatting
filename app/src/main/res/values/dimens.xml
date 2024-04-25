@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontalLayoutPadding">20dp</dimen>
+    <dimen name="verticalLayoutPadding">30dp</dimen>
+    <dimen name="marginBottom10dp">10dp</dimen>
+    <dimen name="marginBottom20dp">20dp</dimen>
+    <dimen name="marginTop10dp">10dp</dimen>
+    <dimen name="paddingTop30dp">30dp</dimen>
+    <dimen name="titleWidth300dp">300dp</dimen>
+    <dimen name="maxWidthBubble">256dp</dimen>
+    <dimen name="paddingEndBubble">24dp</dimen>
+    <dimen name="paddingBubble">8dp</dimen>
+    <dimen name="marginFrameLayout">8dp</dimen>
+    <dimen name="paddingChatLayout">16dp</dimen>
+    <dimen name="sizeSendMessage">32dp</dimen>
+    <dimen name="marginSendMessage">16dp</dimen>
+    <dimen name="paddingTopChatLayout">8dp</dimen>
+    <dimen name="ElevationChatLayout">12dp</dimen>
+    <dimen name="sizeCircularImage">150dp</dimen>
+    <dimen name="borderCircularImage">4dp</dimen>
+    <dimen name="marginTop50dp">50dp</dimen>
+    <dimen name="sizeTextProfile">18dp</dimen>
+    <dimen name="marginBottom100dp">100dp</dimen>
+    <dimen name="sizeCircularImage100dp">100dp</dimen>
+    <dimen name="marginTop30dp">30dp</dimen>
+    <dimen name="marginBottom40dp">40dp</dimen>
+</resources>
